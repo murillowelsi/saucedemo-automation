@@ -2,7 +2,7 @@
 
 [![Playwright](https://img.shields.io/badge/Playwright-1.42.0-blue?logo=playwright)](https://playwright.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI/CD](https://github.com/murillowelsi/saucedemo-automation/actions/workflows/main.yml/badge.svg)](https://github.com/murillowelsi/saucedemo-automation/actions)
+[![CI/CD](https://github.com/murillowelsi/saucedemo-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/murillowelsi/saucedemo-automation/actions/workflows/playwright.yml)
 
 A robust test automation framework for SauceDemo e-commerce platform using Playwright and TypeScript, following OOP and SOLID principles.
 
